@@ -1,0 +1,23 @@
+Asha Verma
+asha.verma@example.com | +91 98765 43210 | github.com/ashaverma | linkedin.com/in/ashaverma
+
+Summary
+Software developer with 3 years of experience building REST APIs in Python and Flask with SQL databases.
+
+Experience
+Built and deployed 4 Flask services with Docker, reducing response time by 35%.
+Developed NLP text classification with pandas and scikit-learn for 10,000 support tickets.
+Led a team of 3 in an agile environment using Git, JavaScript, HTML and CSS.
+
+Education
+B.Tech in Computer Science, IIT Kharagpur, 2023
+
+Projects
+Resume Classifier - Python, scikit-learn, NLP
+Expense Tracker - Flask, SQL, JavaScript
+
+Certifications
+Machine Learning Specialization - Coursera
+
+Skills
+Python, SQL, Flask, Docker, Git, Communication, Teamwork
